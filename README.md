@@ -13,7 +13,11 @@
   ![Teddysir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddysir&layout=compact&theme=tokyonight)
-  
-</div>
+
+ </div>
+ 
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdzx0719)](https://solved.ac/sdzx0719)
 
 
