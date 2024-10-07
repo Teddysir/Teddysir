@@ -1,13 +1,31 @@
-## <h2 align="center"> Hi there 👋 </p>
----
+## <h1 align="center"> Hi there 👋 </p>
 
-<h2> 📌 Contact & Introduce </p>
+<h3 align="center"> I'm Software Developer, Seonghun Kim ! </h3>
+
+<h3 align="center">  안녕하세요! 소통과 배움을 좋아하는 개발자 김성훈입니다 !</h3>
 
 
- 
+<h2 align="center"> 📌 Contact & Introduce </p>
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- 네이버 이메일 -->
+  <div style="background-color: #1EC800; padding: 10px 20px; border-radius: 5px; color: white; font-weight: bold; display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/-sdzx0719@naver.com-03C75A?style=flat&logo=Naver&logoColor=white&labelColor=03C75A" alt="Naver icon" style="height: 20px; margin-right: 10px;" />
+
+  <!-- Surfit 링크 -->
+  <a href="https://my.surfit.io/w/1071710073" target="_blank" style="background-color: #FF5722; padding: 10px 20px; border-radius: 5px; color: white; font-weight: bold; text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Surfit-FF5722?style=flat&logoColor=white" alt="Surfit icon" style="height: 20px; margin-right: 10px;" />
+  </a>
+
+</div>
+<br>
+<br>
+<br>
+
+
 <h2> 🎨 Stack <br> </p>
 
----
 
 <h3> Back-end </h3>
 <div style="display: flex; gap: 10px;">
