@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/-sdzx0719@naver.com-03C75A?style=flat&logo=Naver&logoColor=white&labelColor=03C75A" alt="Naver icon" style="height: 20px; margin-right: 10px;" />
 
   <!-- Surfit 링크 -->
-  <a href="https://my.surfit.io/w/1071710073" target="_blank" style="background-color: #FF5722; padding: 10px 20px; border-radius: 5px; color: white; font-weight: bold; text-decoration: none; display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Surfit-FF5722?style=flat&logoColor=white" alt="Surfit icon" style="height: 20px; margin-right: 10px;" />
-  </a>
 
 </div>
 <br>
