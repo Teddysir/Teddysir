@@ -3,8 +3,6 @@
 <h3 align="center"> I'm Software Developer, Seonghun Kim ! </h3>
 
 <h3 align="center">  안녕하세요! 소통과 배움을 좋아하는 개발자 김성훈입니다 !</h3>
-
-
 <h2 align="center"> 📌 Contact & Introduce </p>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
@@ -16,8 +14,6 @@
   <!-- Surfit 링크 -->
 
 </div>
-<br>
-<br>
 <br>
 
 
