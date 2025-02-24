@@ -27,18 +27,18 @@
 
 <h3> DevOps </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" style="height: 25px;"/>
 </div>
 
 <h3> Tools </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" style="height: 25px;"/>
 </div>
