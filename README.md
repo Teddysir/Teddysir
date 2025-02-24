@@ -63,6 +63,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4" style="display: inline-block;" />
 
   <!-- Solved.ac Profile -->
+  <a href="https://solved.ac/sdzx0719" target="_blank">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=sdzx0719" alt="Solved.ac Profile" style="display: inline-block;" />
+  </a>
 
 
 </div>
