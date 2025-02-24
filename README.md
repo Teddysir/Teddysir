@@ -23,17 +23,16 @@
 <h3> Back-end </h3>
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" style="height: 25px;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" style="height: 25px;">
 </div>
 
 <h3> DevOps </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" style="height: 25px;"/>
 </div>
 
 <h3> Tools </h3>
@@ -42,12 +41,10 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" style="height: 25px;"/>
 </div>
 
 <h3> Languages </h3>
 <div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" style="height: 25px;"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" style="height: 25px;"/>
 </div>
 
