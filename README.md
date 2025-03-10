@@ -54,12 +54,18 @@
 
 
 <div align="center">
-  <div style="display: flex; gap: 20px; align-items: center;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4" style="width: 50%;" />
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdzx0719" style="width: 40%;" />
-
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4" />
+      </td>
+      <td>
+        <a href="https://solved.ac/sdzx0719/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdzx0719" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
