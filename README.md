@@ -1,73 +1,77 @@
-## <h1 align="center"> Hi there 👋 </p>
+# Hi there, I'm Seonghun Kim! 👋
 
-<h3 align="center"> I'm Software Developer, Seonghun Kim ! </h3>
-
-<h3 align="center">  안녕하세요! 소통과 배움을 좋아하는 개발자 김성훈입니다 !</h3>
-<h2 align="center"> 📌 Contact & Introduce </p>
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <!-- 네이버 이메일 -->
-  <div style="background-color: #1EC800; padding: 10px 20px; border-radius: 5px; color: white; font-weight: bold; display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/-sdzx0719@naver.com-03C75A?style=flat&logo=Naver&logoColor=white&labelColor=03C75A" alt="Naver icon" style="height: 20px; margin-right: 10px;" />
-
-  <!-- Surfit 링크 -->
-
-</div>
+### 👨🏻‍💻 About Me
 <br>
 
+-   💡 I'm a Back-end developer obsessed with **system performance** and **high-traffic** challenges.
+-   🚀 I pursue **"Reasoned Design"** to build efficient, scalable, and maintainable applications.
+-   🌱 I’m currently diving deep into **Back-end architecture** and **Algorithms** to master performance optimization.
+-   📫 How to reach me: **sdzx0719@naver.com**
 
-<h2> 🎨 Stack <br> </p>
+<br>
+
+### 🛠️ My Tech Stack
+> 주로 사용하는 기술 스택입니다.
+
+<table>
+  <tr>
+    <td align="center"><strong>Language</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Back-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JPA-A47454?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/QueryDSL-009639?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 
-<h3> Back-end </h3>
-<div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" style="height: 25px;">
+<br>
+
+### 📊 My GitHub Stats & Competitive Programming
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&theme=github_dark&count_private=true" 
+       alt="Seonghun's GitHub stats" 
+       height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 이미지 사이 간격 -->
+  <a href="https://solved.ac/sdzx0719/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdzx0719" 
+         alt="Solved.ac Profile" 
+         height="160"/>
+  </a>
 </div>
-
-<h3> DevOps </h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" style="height: 25px;"/>
-</div>
-
-<h3> Tools </h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="height: 25px;"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" style="height: 25px;"/>
-</div>
-
-<h3> Languages </h3>
-<div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" style="height: 25px;"/>
-</div>
-
-
-
----
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4" />
-      </td>
-      <td>
-        <a href="https://solved.ac/sdzx0719/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdzx0719" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 
 
