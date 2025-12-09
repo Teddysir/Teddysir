@@ -59,13 +59,10 @@
 
 <br>
 
-### 📊 My GitHub Stats & Competitive Programming
+### 📊 Baekjoon
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teddysir&show_icons=true&theme=github_dark&count_private=true" 
-       alt="Seonghun's GitHub stats" 
-       height="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 이미지 사이 간격 -->
+  
   <a href="https://solved.ac/sdzx0719/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sdzx0719" 
          alt="Solved.ac Profile" 
